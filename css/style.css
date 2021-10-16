@@ -1,0 +1,361 @@
+.position-img {
+  position: absolute;
+  width: 100%;
+}
+.org-banner {
+  position: relative;
+}
+.product-div1 {
+  border-radius: 8px;
+  width: 150px;
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+body {
+  font-family: HK Grotesk;
+  width: 100%;
+  overflow-x: hidden;
+}
+.product-div {
+  border-radius: 8px;
+  width: 150px;
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+}
+.phead {
+  background-color: #de742d;
+  border-radius: 5px;
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 16px;
+  text-align: center;
+  color: #ffffff;
+}
+.phead1 {
+  background-color: #a07edc;
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #202324;
+}
+.p1head {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+ display: flex;
+  align-items: center;
+  text-align: center;
+  color: #545c5f;
+}
+.grey {
+  padding-left: 10px !important;
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #545c5f;
+}
+.product-div2 {
+  border-radius: 8px;
+  width: 120px;
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+}
+.tick {
+  width: 15px;
+  height: 15px;
+}
+.review {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #202324;
+}
+.color-pic {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #939c9f;
+}
+#flexRadioDefault2 {
+  color: green !important;
+}
+.form-check-label {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #202324;
+}
+.interest-text {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  color: #202324;
+}
+.add-bag-button {
+  background: #00ba74 !important;
+  border-radius: 4px;
+  color: white;
+}
+.lorem {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #34393a;
+}
+.footer {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+ color: #545c5f;
+}
+.quantity {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #939c9f;
+  text-align: left;
+}
+.qty-count {
+  background: #edf1f2;
+  border-radius: 4px;
+  border: none;
+}
+.product-qty {
+  border: none;
+  width: 30px;
+}
+@media only screen and (min-width: 1200px) {
+  /* header */
+  .color {
+    background-color: #03062f;
+    position: relative;
+  }
+  .container {
+    width: 80%;
+  }
+  .col-pad {
+    padding-top: 100px !important;
+  }
+  .mainlogo {
+    width: 80px;
+  }
+  .position-img {
+    position: absolute;
+    width: 100%;
+  }
+  .ch-header__list {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    color: #ffffff;
+  }
+  .btn1 {
+    width: 100px;
+    height: 40px;
+    border-radius: 2px;
+    color: white;
+    border-color: #030f3f;
+    background-color: #030f3f;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .btn2 {
+    width: 100px;
+    height: 40px;
+    border-radius: 2px;
+    color: #528ff0;
+    border-color: white;
+    background-color: white;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .us-logo {
+    width: 24px;
+  }
+  .ch-header__list {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    color: #ffffff;
+  }
+
+  /* banner css */
+  .org-banner {
+    position: relative;
+  }
+  .img-hero {
+    width: 394px;
+  }
+  .banner-heading {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 53px;
+   letter-spacing: 0.01em;
+color: #ffffff;
+  }
+  .banner-para {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .banner-btn {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 24px;
+     color: #ffffff;
+    background-color: #2783f3;
+    border-color: #2783f3;
+    border-radius: 2px;
+  }
+  .img-hero {
+    margin-left: 150px;
+  }
+
+  .org-courosel {
+    margin-top: 300px;
+  }
+  .slider-single {
+    width: 500px;
+    padding-left: 50px;
+  }
+.sechead {
+    text-align: left;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 53px;
+   color: #222323;
+  }
+  .secpara {
+    text-align: left;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+   color: #4f5659;
+  }
+  .secimg {
+    text-align: left;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .banner-heading {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 23px;
+
+
+    letter-spacing: 0.01em;
+
+    color: #ffffff;
+  }
+  .add-bag-button {
+    background: #00ba74 !important;
+    border-radius: 4px;
+    width: 95%;
+    color: white;
+  }
+  .banner-para {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .banner-btn {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height, or 160% */
+
+    color: #ffffff;
+    background-color: #2783f3;
+    border-color: #2783f3;
+    border-radius: 2px;
+  }
+  .position-img {
+      position: absolute;
+    width: 100%;
+    height: 300px;
+  }
+  .org-courosel {
+    margin-top: 20px;
+  }
+  .sechead {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 33px;
+    /* identical to box height, or 132% */
+
+    color: #222323;
+  }
+  .secpara {
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 17px;
+    color: #4f5659;
+  }
+}
