@@ -18,6 +18,18 @@ body {
  width: 100%;
   overflow-x: hidden;
 }
+.product-div:hover{
+  border-width: 3px;
+  border-color: black;
+}
+.product-div1:hover{
+  border-width: 3px;
+  border-color: black;
+}
+.product-div2:hover{
+  border-width: 3px;
+  border-color: black;
+}
 .product-div {
   border-radius: 8px;
   width: 150px;
@@ -155,6 +167,10 @@ body {
   background: #edf1f2;
   border-radius: 4px;
   border: none;
+}
+.succes{
+  color: #00ba74;
+  background-color: #00ba74;
 }
 .product-qty {
   border: none;
