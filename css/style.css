@@ -1,3 +1,6 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 .position-img {
   position: absolute;
   width: 100%;
@@ -343,7 +346,7 @@ color: #ffffff;
     font-weight: bold;
     font-size: 10px;
     line-height: 12px;
-    /* identical to box height, or 160% */
+    
 
     color: #ffffff;
     background-color: #2783f3;
@@ -364,7 +367,7 @@ color: #ffffff;
     font-weight: bold;
     font-size: 30px;
     line-height: 33px;
-    /* identical to box height, or 132% */
+    
 
     color: #222323;
   }
